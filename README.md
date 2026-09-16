@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Diff3D Banner" width="100%" />
+<img src="assets/Banner.png" alt="Diff3D Banner" width="100%" />
 
 <br/>
 
@@ -24,7 +24,7 @@ The pipeline incorporates a PointNet-UNet and DDIM solver, which have been train
 The model is conditioned to generate 8 distinct geometric archetypes via embedded class conditioning:
 
 <div align="center">
-<img src="assets/outputs.png" alt="Diff3D 8-Class Showcase" width="100%" />
+<img src="assets/Outputs.png" alt="Diff3D 8-Class Showcase" width="100%" />
 </div>
 
 | Prompt Index | Prompt Keyword |
