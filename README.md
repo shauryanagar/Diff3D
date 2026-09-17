@@ -90,11 +90,9 @@ pip install -r requirements.txt
 ### Headless CLI-based generation
 
 ```bash
-# Generate a vase using 40 DDIM steps
-python generate.py --prompt vase --steps 40 --out vase.stl
+# Generate a cube using 40 DDIM steps
+python generate.py --prompt cube --steps 40 --out cube.stl
 
-# Generate an aerodynamic plane archetype
-python generate.py --prompt plane --steps 50 --out plane.stl
 ```
 
 ### Interactive Gradio Interface
