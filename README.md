@@ -102,3 +102,11 @@ python app.py
 ```
 
 Navigate to `http://127.0.0.1:7860` in a web browser.
+
+
+<br>
+
+The UI should look as follows:
+<div align="center">
+<img src="assets/UI.png" alt="Diff3D UI" width="100%" />
+</div>
